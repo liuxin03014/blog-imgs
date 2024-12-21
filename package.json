@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxin03014/blog-imgs.git"
+  },
   "keywords": [
     "图床"
   ],
   "author": "liuxin03014",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxin03014/blog-imgs/issues"
+  },
+  "homepage": "https://github.com/liuxin03014/blog-imgs#readme"
 }
