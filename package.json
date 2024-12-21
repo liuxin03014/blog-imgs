@@ -1,0 +1,14 @@
+{
+  "name": "chujiu-imgs",
+  "version": "1.0.0",
+  "description": "图床",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "liuxin03014",
+  "license": "ISC"
+}
