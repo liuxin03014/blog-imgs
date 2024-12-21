@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/liuxin03014/blog-imgs.git"
   },
-  "keywords": [
-    "图床"
-  ],
   "author": "liuxin03014",
   "license": "ISC",
   "bugs": {
